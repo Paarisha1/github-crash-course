@@ -8,3 +8,6 @@ function sayName(){
 function newfunction() {
     console.log('This is a new branch')
 }
+function newfunction1() {
+    console.log('This is a new branch again')
+}
